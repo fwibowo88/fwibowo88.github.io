@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Peta Buku Surabaya (Surabaya Book Map)</name>
+    <description><![CDATA[Peta situs-situs buku Surabaya:<br>- perpustakaan<br>- ruang publik<br>- taman baca<br>- toko buku<br>- lembaga asing & budaya<br>- persewaan buku<br><br>Kunjungi: http://c2o-library.net/bookmaps/]]></description>
+    <NetworkLink>
+      <name>Peta Buku Surabaya (Surabaya Book Map)</name>
+      <Link>
+        <href>http://www.google.com/maps/d/kml?mid=1PbvHTeDMmr9E1eRt_1bAI6kNeA4</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
